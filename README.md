@@ -98,5 +98,3 @@
 
 ![alt text](https://github.com/vilgelmanderson/Samostoyatelnaya_5/blob/main/15.png)
 
-# Вывод
-В этой Лабораторной я научился использовать: операторы +, -, *; условия if, else; циклы for, while. 
